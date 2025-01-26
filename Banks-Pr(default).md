@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Corporate Probability Of Default"
+permalink: /Banks-Pr(default)
+---
 # Project Overview
 
 This project aims to estimate the probability of default for banks using financial ratios derived from FDIC data. By leveraging machine learning techniques like Classification and Regression Trees (CART), we predict bank defaults, a rare event with probabilities around 1%. The project also identifies key financial features by Random Forest Tree algorithm and optimizes the model with Extreme Gradient Boosting to enhance predictive accuracy.
